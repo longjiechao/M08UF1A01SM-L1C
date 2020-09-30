@@ -13,18 +13,12 @@
     <body>
         <?php
         // put your code here
-        
-        function LJfunc1(){
-            
+        function LJfunc1(){  
         }
-        function LJfunc2(){
-            
+        function LJfunc2(){  
         }
         function LJfunc3(){
-            
         }
-        
-        
         ?>
     </body>
 </html>
