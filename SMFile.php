@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         function smFunctionOne(){
-            
+            echo "Hello world";
         }
         function smFuntionTwo(){
             
