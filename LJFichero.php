@@ -17,7 +17,7 @@
             echo "Bye bye world";
         }
         function LJfunc2(){  
-            echo "hi";
+            echo "hey test!";
         }
         function LJfunc3(){
             echo"I am Sophia";
