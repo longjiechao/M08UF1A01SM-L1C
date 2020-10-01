@@ -18,6 +18,7 @@
         function LJfunc2(){  
         }
         function LJfunc3(){
+            echo"I am Sophia";
         }
         ?>
     </body>
