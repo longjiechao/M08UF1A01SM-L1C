@@ -15,7 +15,7 @@ and open the template in the editor.
             echo "Hello world";
         }
         function smFuntionTwo(){
-            
+            echo "Testing...";
         }
         function smFunctionThree(){
             
