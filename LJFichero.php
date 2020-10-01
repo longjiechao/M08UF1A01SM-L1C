@@ -14,8 +14,10 @@
         <?php
         // put your code here
         function LJfunc1(){  
+            echo "Bye bye world";
         }
         function LJfunc2(){  
+            echo "hi";
         }
         function LJfunc3(){
         }
